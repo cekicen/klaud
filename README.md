@@ -17,24 +17,28 @@
 </div>
 
 ---
-<!-- <div align="center">
+
+ <div align="center">
 <table>
 <tr>
   
-`Spend less time reading code, more time building.`
+`The X-Ray Intelligence Engine for Your Codebase.`
   
 <td width="120" align="center">
-<img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
+<img src="https://repoxray.2clabs.tech/logo.png" width="80" height="80" alt="RepoXray Logo"/>
 </td>
 <td>
 <h2 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
-<a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a></h2>
+<a href="https://repoxray.2clabs.tech/"><strong>repoxray.2clabs.tech</strong></a></h2>
 </td>
 </tr>
 </table>
+
+`Spend less time reading code, more time building.`
+
 </div>
 
---- -->
+---
 
 ## Table of Contents
 
@@ -474,4 +478,13 @@ This repository archives source code leaked from Anthropic's npm registry on **2
 </a>
 
 
+---
+
+Cooked by aashuu ✦ (Ashutosh Kumar)<br>
+Founder of [2C Labs](https://www.2clabs.tech)
+
+I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+Connect here:<br>
+Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
 
